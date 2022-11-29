@@ -2,8 +2,8 @@
 
 #### 🚀 About Me 
 
-- Senior Scientists at Campus Alpin (IMK-IFU), Karlsruhe Institute of Technology
-- Interested and working on Data Science and Machine Learning (especially, but not exclusively, in context of Environmental Sciences)
+- Senior Software Engineer at Planet Labs Germany
+- Interested in Data Pipelines, Remote Sensing data, Data Science and Machine Learning (especially, but not exclusively, in context of Environmental Sciences)
 
 #### 💻 GitHub Stats
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=cwerner&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/cwerner)
